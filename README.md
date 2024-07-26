@@ -1,9 +1,9 @@
 # Project Description 
-<p><h1 align="center">Inventory Management System Project</h1>
+<p><h1 align="center">Inventory Management System </h1>
 <br><h2 align="center">Class 12th Project based on OOPS & File Handling</h2>
 
 <p><h2 align="center">INTRODUCTION  TO  PROJECT </h2>
-<br>This project  Inventory  Management  System  basically provides a quick and efficient  registration of  a  particular  item ,  storing  their  details  into  the  system  and  perform  the  work  accordingly.  
+<br>The project  Inventory  Management  System  basically provides a quick and efficient  registration of  a  particular  item ,  storing  their  details  into  the  system  and  perform  the  work  accordingly.  
 The need of this project arose as there is a growing demand of inventory for resources and managing the record  of n items  is not an easy task. My project keeps the data more secure and provides  other  facilities and is very  fast. Someone working on this program for the first time doesn’t need any special training or course , only the basic knowledge about inventory is enough for someone to start working with my program. The  menu is  self  explanatory and provides all necessary access according  to  the  user  ,one can add ,  display , update , search  , delete  ,issue , purchase , deposit  item through a great ease. Also the  password  is  setup  in the program  to secure  data.
 
 <br>The program can easily handle vast amount of data and the data stored is safe within the binary file which are readable only through the program itself . Inside the program also the object oriented programming  has been used to a great extent so data is safe while it is in use. Thus this Inventory management system is ideal for prolong use of  resources.
