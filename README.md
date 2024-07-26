@@ -3,13 +3,13 @@
 <br><h2 align="center">Class 12th Project based on OOPS & File Handling</h2>
 
 <p><h2 align="center">INTRODUCTION  TO  PROJECT </h2>
-<br>My project  Inventory  Management  System  basically provides a quick and efficient  registration of  a  particular  item ,  storing  their  details  into  the  system  and  perform  the  work  accordingly.  
+<br>This project  Inventory  Management  System  basically provides a quick and efficient  registration of  a  particular  item ,  storing  their  details  into  the  system  and  perform  the  work  accordingly.  
 The need of this project arose as there is a growing demand of inventory for resources and managing the record  of n items  is not an easy task. My project keeps the data more secure and provides  other  facilities and is very  fast. Someone working on this program for the first time doesn’t need any special training or course , only the basic knowledge about inventory is enough for someone to start working with my program. The  menu is  self  explanatory and provides all necessary access according  to  the  user  ,one can add ,  display , update , search  , delete  ,issue , purchase , deposit  item through a great ease. Also the  password  is  setup  in the program  to secure  data.
 
 <br>The program can easily handle vast amount of data and the data stored is safe within the binary file which are readable only through the program itself . Inside the program also the object oriented programming  has been used to a great extent so data is safe while it is in use. Thus this Inventory management system is ideal for prolong use of  resources.
 
 <p><h2 align="center">DATA  STRUCTURES USED </h2>
-<br>My  program  has  the  following  class:
+<br>The  program  has  the  following  class:
 <br><br><h3>Inventory </h3>
 <br>It  has  the  following  data  members:
 <br>1)	char icode[5];
@@ -55,13 +55,9 @@ The need of this project arose as there is a growing demand of inventory for res
 <br>(f)	To Display all items having STOCK<=50.......
 <br>(g)	To Display all items  in Tabular form.......
 
-
 <br>3)	To Search item ...............
 <br>(a)	Search  by  item  name ….
 <br>(b)	Search  by  item  code…..
-
-
-
 
 <br>4)	To update item ..............
 <br>(a)	Update  item  price ….
@@ -83,7 +79,7 @@ The need of this project arose as there is a growing demand of inventory for res
 <br>  To  exit  the  main  program.
 
 <p><h2 align="center">HEADER  FILES  USED </h2>
-<br>I  have  used  the  following  header  files  in  my  project  :
+<br>Following  header  files  are used in this project  :
 <br>1)	Conio.h  = For  getch() , textcolor() , textbackground(), gotoxy()
 <br>2)	Fstream.h  = For  cin , cout  and  file  handling
 <br>3)	Dos.h  = For  delay()
